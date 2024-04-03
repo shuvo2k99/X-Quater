@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1c1c;
+ 
+}
+.min{
+ height:530px ;
+ width: 250px;
+ background: #7236fd;
+ margin-left: 60px;
+ margin-top: 100px;
+ border-radius: 20px;
+  
+}
+.logo img{
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+  margin-top: 25px;
+  margin-left: 70px;
+  border: 5px solid white;
+  
+}
+
+.logo h1{
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  
+}
+
+.link button{
+  height: 50px;
+  width: 200px;
+  margin-top: 25px;
+  margin-left: 25px;
+  border-radius: 10px;
+  border: 3px solid white;
+  background-color: gray;
+}
+
+.link button a {
+font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+ font-weight: bold;;
+} 
+
+button:hover{
+  background: red;
+  color: width;
+}
+button a :hover{
+  
+  color: white;
+}
+.link1 button a{
+  
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.icon{
+  
+  width: 200px;
+  height: 5px;
+  font-size: 23px;
+  margin-right: 10px;
+  margin-top: 25px;
+  margin-left: 70px;
+  color: white;
+}
+
+.ho{
+  width: 50px;
+  font-size: 10px;
+ margin-top: 30px;
+ margin-left: 100px;
+}
+
